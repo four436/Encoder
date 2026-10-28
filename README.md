@@ -7,5 +7,6 @@ Librăriile utilizate:
   * import textio.TextIO
     - pentru a putea selecta și citi fișierele
 Limbajul necesar pentru realizarea acestuia: **Java** (minim versiunea 8.0)
-
+## Rularea programului
+**Atenție!!!** Programul ne având versiune finală sau un fișier .exe care să poată fi rulat, acesta trebuie rulat din IDE (descărcând source code-ul)  
 
